@@ -1,4 +1,7 @@
-# UW SSC Data Wrangling
+# Python Lessons
 
-At-home Python exercises through [this e-book](https://ssc.wisc.edu/sscc/pubs/DWE/book/)
+At-home Python exercises using... 
+
+1. Data Wrangling [e-book](https://ssc.wisc.edu/sscc/pubs/DWE/book/) from UW Social Science Computing Cooperative
+2. more?
 

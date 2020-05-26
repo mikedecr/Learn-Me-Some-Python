@@ -71,4 +71,48 @@ del my_list
 my_list
 
 
+# ----------------------------------------------------
+#   extras
+# ----------------------------------------------------
+
+# ---- https://www.programiz.com/python-programming/list ---------
+
+my_list = ['p', 'r', 'o', 'b', 'e']
+
+# zero indexed!
+my_list[0]
+my_list[1]
+
+# nested lists
+n_list = ["hello", [2, 0, 1, 5]]
+
+# indexing a nested list
+n_list[0][0]
+n_list[0][3]
+n_list[1][1]
+
+# honestly a little weirded out that each character is indexed
+
+
+
+# negative indexing goes from reverse
+my_list[-1]
+
+# index by vector.
+# in this example, 3 means third, and not 0 + 3?
+my_list[0:3]
+
+# which is why this is length 1 and 4
+my_list[0:1]
+my_list[0:4]
+
+# from beginning, to end
+my_list[ :4]
+my_list[3: ]
+my_list[ : ] # lol ok
+
+# assign into list
+my_list[0] = "hello"
+
+my_list
 
